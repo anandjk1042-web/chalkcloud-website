@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<style>
+		.s0 { fill: #ebe7dc } 
+		.s1 { fill: none;stroke: #251611;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7.5 } 
+		.s2 { fill: #f05d5e;stroke: #251611;stroke-miterlimit:10;stroke-width: 7.5 } 
+		.s3 { fill: #f05d5e;stroke: #251611;stroke-miterlimit:10;stroke-width: 13.5 } 
+		.s4 { fill: #f49293 } 
+		.s5 { fill: #000000 } 
+		.s6 { fill: none;stroke: #f49293;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7.5 } 
+		.s7 { fill: #ffffff } 
+	</style>
+	<path id="Shape 9" fill-rule="evenodd" class="s0" d="m512 0v512h-519v-512z"/>
+	<g id="Ballon">
+		<path id="Shape 3" fill-rule="evenodd" class="s1" d="m253.62 374.08c0 0 5.58 32.39-26.91 82.67"/>
+		<path id="Shape 2" fill-rule="evenodd" class="s2" d="m243.22 357.26l-9.8 17.87h40.08l-10.24-18.96z"/>
+		<path id="Shape 1" fill-rule="evenodd" class="s3" d="m256.36 356.72c-58.82 0-106.36-47.55-106.36-106.36 0-58.82 47.54-106.36 106.36-106.36 58.81 0 106.36 47.54 106.36 106.36 0 58.81-47.55 106.36-106.36 106.36z"/>
+		<path id="Shape 7" fill-rule="evenodd" class="s4" d="m301.55 274.64c-9.35 0-16.91-7.55-16.91-16.91 0-9.35 7.56-16.91 16.91-16.91 9.35 0 16.91 7.56 16.91 16.91 0 9.36-7.56 16.91-16.91 16.91z"/>
+		<path id="Shape 7 copy" fill-rule="evenodd" class="s4" d="m207.43 273.59c-9.35 0-16.91-7.56-16.91-16.91 0-9.35 7.56-16.91 16.91-16.91 9.35 0 16.91 7.56 16.91 16.91 0 9.35-7.56 16.91-16.91 16.91z"/>
+		<path id="Shape 4" fill-rule="evenodd" class="s5" d="m220.91 250.82c-4.59 0-8.29-3.71-8.29-8.29 0-4.58 3.7-8.29 8.29-8.29 4.58 0 8.28 3.71 8.28 8.29 0 4.58-3.7 8.29-8.28 8.29z"/>
+		<path id="Shape 4 copy" fill-rule="evenodd" class="s5" d="m290.89 252.66c-4.58 0-8.29-3.7-8.29-8.29 0-4.58 3.71-8.29 8.29-8.29 4.58 0 8.29 3.71 8.29 8.29 0 4.59-3.71 8.29-8.29 8.29z"/>
+		<path id="Shape 8" fill-rule="evenodd" class="s6" d="m167.72 228.89c0 0 7.07-43.92 58.96-66.33"/>
+		<path id="Shape 5" fill-rule="evenodd" class="s7" d="m219.98 244.37c-2.03 0-3.68-1.64-3.68-3.68 0-2.04 1.65-3.68 3.68-3.68 2.04 0 3.69 1.64 3.69 3.68 0 2.04-1.65 3.68-3.69 3.68z"/>
+		<path id="Shape 5 copy" fill-rule="evenodd" class="s7" d="m288.13 246.21c-2.04 0-3.69-1.64-3.69-3.68 0-2.04 1.65-3.68 3.69-3.68 2.03 0 3.68 1.64 3.68 3.68 0 2.04-1.65 3.68-3.68 3.68z"/>
+		<path id="Shape 6" fill-rule="evenodd" class="s1" d="m243.25 269.29c5.49 5.95 13.47 10.56 23.13-0.12"/>
+	</g>
+</svg>
